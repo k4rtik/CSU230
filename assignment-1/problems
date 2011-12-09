@@ -1,0 +1,31 @@
+# 1. Write a recursive function to print the numbers from 1 to 10.
+# 2. Write a function to enter a string and display it in reverse. Don’t use arrays or strings.
+# 3.. Write a recursive function to find the GCD of two given numbers.
+# 4. Write a recursive function to enter characters one by one until a space is entered. The function should return the depth at which the space was encountered.
+# 5. Write a recursive function to generate the permutations of  a string of size n.
+# 6. Write a Program to implement Binary search algorithm(Using both iterative and recursive approaches)
+# 7. Write a progam to implement insertion sort.
+# 8. Write a program to implement bubble sort.
+# 9. Implement strcmp function using pointers
+
+# 10. Write a pointer version of the function strcat
+
+#11. Write a funtion strend(s,t) which returns 1 if the string t occurs at the end of the strings and zero  otherwise(using pointers)
+
+# 12. Implement strncmp(s, t, n)which compares the first  n charactor of string s to t
+
+#13. a) Write a C program that uses functions to perform the following operations:
+i) To insert a sub-string in to given main string from a given position.
+ii) To delete n Characters from a given position in a given string.
+
+#14.Implement following functins on a singly linked list
+  a) creation
+  b) insertion
+  c) deletion
+  d)  search
+
+# 15. Implement following functins on a doubly linked list
+  a) creation
+  b) insertion
+  c) deletion
+  d)  search
